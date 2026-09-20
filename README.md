@@ -105,6 +105,17 @@ python run.py
 
 ---
 
+## Screenshots
+ 
+> <img width="602" height="477" alt="RFM" src="https://github.com/user-attachments/assets/2051d475-228b-41e6-b01b-43c6b3ee33e6" />
+> <img width="602" height="369" alt="data_dashboard" src="https://github.com/user-attachments/assets/19482e92-293c-4f61-910e-2de1b23a0eb2" />
+> <img width="602" height="349" alt="RFManalysis" src="https://github.com/user-attachments/assets/3a11c9c6-0c54-4943-8b42-ce93a4a13183" />
+
+
+
+ 
+---
+
 ## Dataset
 
 This project uses a real-world e-commerce transaction dataset. The ETL pipeline is designed to work with any transactional dataset that includes customer IDs, purchase dates, and transaction amounts.
