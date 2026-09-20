@@ -105,12 +105,6 @@ python run.py
 
 ---
 
-## Screenshots
-
-> *Screenshots of the dashboard coming soon.*
-
----
-
 ## Dataset
 
 This project uses a real-world e-commerce transaction dataset. The ETL pipeline is designed to work with any transactional dataset that includes customer IDs, purchase dates, and transaction amounts.
